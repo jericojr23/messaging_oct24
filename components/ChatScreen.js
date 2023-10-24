@@ -5,7 +5,7 @@ import Status from './Status';
 
 const initialMessages = [
   { id: '1', text: 'Hello!' },
-  { id: '2', text: 'Hey there!' },
+  { id: '2', text: 'No Internet Connection!' },
  
 ];
 
